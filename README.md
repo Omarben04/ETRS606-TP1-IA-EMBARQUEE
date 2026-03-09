@@ -1,7 +1,6 @@
 # ETRS606 — TP1 : Problème MNIST
 
 > **Module :** ETRS606 — Intelligence Artificielle Embarquée  
-> **Sujet :** Étude et implémentation d'un réseau de neurones dense (MLP) pour la classification du dataset MNIST  
 > **Plateforme :** Google Colab / TensorFlow 2.x  
 > **Niveau :** Licence 3 TRI — Université Savoie Mont Blanc (USMB)
 
