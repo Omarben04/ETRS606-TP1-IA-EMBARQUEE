@@ -1,4 +1,4 @@
-# ETRS606 — TP1 : Classification de chiffres manuscrits MNIST avec un MLP
+# ETRS606 — TP1 : Problème MNIST
 
 > **Module :** ETRS606 — Intelligence Artificielle Embarquée  
 > **Sujet :** Étude et implémentation d'un réseau de neurones dense (MLP) pour la classification du dataset MNIST  
