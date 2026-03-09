@@ -1,6 +1,7 @@
 # ETRS606 — TP1 : Problème MNIST
 
-> **Module :** ETRS606 — Intelligence Artificielle Embarquée  
+> **Module :** ETRS606 — Intelligence Artificielle Embarquée
+> **Participants :** Ait Hamou Hakim , Benmansour Omar , Chaize Quentin 
 > **Plateforme :** Google Colab / TensorFlow 2.x  
 > **Niveau :** Licence 3 TRI — Université Savoie Mont Blanc (USMB)
 
