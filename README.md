@@ -1,0 +1,2 @@
+# ETRS606-TP-
+TP1: Probleme MNIST CR
