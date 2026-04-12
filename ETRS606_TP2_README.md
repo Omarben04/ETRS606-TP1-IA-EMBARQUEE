@@ -1,9 +1,9 @@
 # ETRS606 — TP2 : Interface Capteur & STM32
 
-> **Module :** ETRS606 — Intelligence Artificielle Embarquée
-> **Participants :** Ait Hamou Hakim, Benmansour Omar, Chaize Quentin
-> **Plateforme :** STM32CubeIDE 1.15 / CubeMX 6.11 — Carte NUCLEO-N657X0 + X-NUCLEO-IKS01A3
-> **Niveau :** Licence 3 TRI — Université Savoie Mont Blanc (USMB)
+> **Module :** ETRS606 — Intelligence Artificielle Embarquée  
+> **Participants :** Ait Hamou Hakim , Benmansour Omar , Chaize Quentin  
+> **Plateforme :** Google Colab / TensorFlow 2.x  
+> **Niveau :** Licence 3 TRI — Université Savoie Mont Blanc (USMB)  
 
 ---
 
