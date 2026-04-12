@@ -1,9 +1,9 @@
 # ETRS606 — TP3 : Connectivité Cloud
 
-> **Module :** ETRS606 — Intelligence Artificielle Embarquée
-> **Participants :** Ait Hamou Hakim, Benmansour Omar, Chaize Quentin
-> **Plateforme :** NUCLEO-N657X0 + ThingSpeak (MathWorks) + Google Colab / Python 3.11 / TensorFlow 2.15
-> **Niveau :** Licence 3 TRI — Université Savoie Mont Blanc (USMB)
+> **Module :** ETRS606 — Intelligence Artificielle Embarquée  
+> **Participants :** Ait Hamou Hakim, Benmansour Omar, Chaize Quentin  
+> **Plateforme :** NUCLEO-N657X0 + ThingSpeak (MathWorks) + Google Colab / Python 3.11 / TensorFlow 2.15  
+> **Niveau :** Licence 3 TRI — Université Savoie Mont Blanc (USMB)  
 
 ---
 
